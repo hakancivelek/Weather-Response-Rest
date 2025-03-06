@@ -1,4 +1,4 @@
-package com.hakancivelek.weatherresponserest.model;
+package com.hakancivelek.weatherResponseRest.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.hakancivelek.weatherresponserest.ex;
+package com.hakancivelek.weatherResponseRest.ex;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

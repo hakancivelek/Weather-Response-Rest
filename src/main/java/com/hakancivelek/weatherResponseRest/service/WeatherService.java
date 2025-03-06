@@ -1,7 +1,7 @@
-package com.hakancivelek.weatherresponserest.service;
+package com.hakancivelek.weatherResponseRest.service;
 
-import com.hakancivelek.weatherresponserest.ex.CityNotFoundException;
-import com.hakancivelek.weatherresponserest.model.WeatherResponse;
+import com.hakancivelek.weatherResponseRest.ex.CityNotFoundException;
+import com.hakancivelek.weatherResponseRest.model.WeatherResponse;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.PathVariable;
 

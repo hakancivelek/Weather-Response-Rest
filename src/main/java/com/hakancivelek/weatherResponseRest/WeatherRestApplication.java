@@ -1,4 +1,4 @@
-package com.hakancivelek.weatherresponserest;
+package com.hakancivelek.weatherResponseRest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
